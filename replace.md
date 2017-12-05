@@ -18,16 +18,16 @@ Problems to resolve:
 * [x] bicycle
 * [x] biniculars
 * [x] birthday-cake
-* [ ] bolt
-* [ ] bomb
-* [ ] book
-* [ ] briefcase
-* [ ] bug
-* [ ] building, building-o (simplify)
+* [x] bolt
+* [x] bomb
+* [x] book
+* [x] briefcase
+* [x] bug
+* [x] building, building-o (simplify)
 * [ ] bullhorn
-* [ ] bus / cab
+* [x] bus / cab
 * [ ] camera-retro
-* [ ] car
+* [x] car
 * [ ] coffee
 * [x] cog / cogs
 * [x] **comment (all / improve shape)**
