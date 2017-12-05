@@ -8,16 +8,16 @@ Problems to resolve:
 ## Complex
 
 * [x] example completed item
-* [ ] address-book, address-book-o
-* [ ] address-card, address-card-o
-* [ ] archive
-* [ ] automobile
-* [ ] bank
-* [ ] bath / bathtub
-* [ ] bell, bell-o, bell-slash, bell-slash-o
-* [ ] bicycle
-* [ ] biniculars
-* [ ] birthday-cake
+* [x] address-book, address-book-o
+* [x] address-card, address-card-o
+* [x] archive
+* [x] automobile
+* [x] bank
+* [x] bath / bathtub
+* [x] bell, bell-o, bell-slash, bell-slash-o
+* [x] bicycle
+* [x] biniculars
+* [x] birthday-cake
 * [ ] bolt
 * [ ] bomb
 * [ ] book
@@ -29,8 +29,8 @@ Problems to resolve:
 * [ ] camera-retro
 * [ ] car
 * [ ] coffee
-* [ ] cog / cogs
-* [ ] **comment (all / improve shape)**
+* [x] cog / cogs
+* [x] **comment (all / improve shape)**
 * [ ] cube
 * [ ] cutlery
 * [ ] database
