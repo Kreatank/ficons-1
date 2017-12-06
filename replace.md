@@ -24,17 +24,17 @@ Problems to resolve:
 * [x] briefcase
 * [x] bug
 * [x] building, building-o (simplify)
-* [ ] bullhorn
+* [x] bullhorn
 * [x] bus / cab
-* [ ] camera-retro
+* [x] camera-retro
 * [x] car
-* [ ] coffee
+* [x] coffee
 * [x] cog / cogs
 * [x] **comment (all / improve shape)**
-* [ ] cube
-* [ ] cutlery
-* [ ] database
-* [ ] edit
+* [x] cube
+* [x] cutlery
+* [x] database
+* [x] edit
 * [ ] envelope (all)
 * [ ] exchange
 * [ ] eye / eye-slash
