@@ -53,9 +53,9 @@ Problems to resolve:
 * [x] globe
 * [x] graduation cap
 * [x] group
-* [ ] headphones
-* [ ] **home**
-* [ ] **hotel**
+* [x] headphones
+* [x] **home**
+* [x] **hotel**
 * [ ] hourglass (all)
 * [ ] image
 * [ ] inbox
