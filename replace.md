@@ -35,24 +35,24 @@ Problems to resolve:
 * [x] cutlery
 * [x] database
 * [x] edit
-* [ ] envelope (all)
-* [ ] exchange
-* [ ] eye / eye-slash
-* [ ] eyedropper
-* [ ] file (all / improve shape )
-* [ ] filter
-* [ ] fire
-* [ ] flag (all)
-* [ ] flask
-* [ ] folder (all)
-* [ ] frown (all smile faces)
-* [ ] gamepad
-* [ ] gavel
-* [ ] **gift**
-* [ ] glass
-* [ ] globe
-* [ ] graduation cap
-* [ ] group
+* [x] envelope (all)
+* [x] exchange
+* [x] eye / eye-slash
+* [x] eyedropper
+* [x] file (all / improve shape )
+* [x] filter
+* [x] fire
+* [x] flag (all)
+* [x] flask
+* [x] folder (all)
+* [x] frown (all smile faces)
+* [x] gamepad
+* [x] gavel
+* [x] **gift**
+* [x] glass
+* [x] globe
+* [x] graduation cap
+* [x] group
 * [ ] headphones
 * [ ] **home**
 * [ ] **hotel**
