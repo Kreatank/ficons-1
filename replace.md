@@ -56,18 +56,18 @@ Problems to resolve:
 * [x] headphones
 * [x] **home**
 * [x] **hotel**
-* [ ] hourglass (all)
-* [ ] image
-* [ ] inbox
-* [ ] key
-* [ ] info
-* [ ] id-badge
-* [ ] language (simplify)
-* [ ] laptop
-* [ ] leaf
-* [ ] life-bouy (all)
-* [ ] **lightbulb**
-* [ ] lock
+* [x] hourglass (all)
+* [x] image
+* [x] inbox
+* [x] key
+* [x] info
+* [x] id-badge
+* [x] language (simplify)
+* [x] laptop
+* [x] leaf
+* [x] life-bouy (all)
+* [x] **lightbulb**
+* [x] lock
 * [ ] magnet
 * [ ] **map**
 * [ ] **map-marker**
