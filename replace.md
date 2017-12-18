@@ -68,31 +68,31 @@ Problems to resolve:
 * [x] life-bouy (all)
 * [x] **lightbulb**
 * [x] lock
-* [ ] magnet
-* [ ] **map**
-* [ ] **map-marker**
-* [ ] **map-o**
-* [ ] map-pin
-* [ ] map-signs
-* [ ] meh-o
-* [ ] **mobile / mobile-phone**
-* [ ] **paper-plane (all)**
-* [ ] **plug**
-* [ ] print (simplify)
-* [ ] **user**
-* [ ] **quote-left / quote-right**
-* [ ] shopping-bag
-* [ ] shopping-basket
-* [ ] **shower**
-* [ ] **sign-out / sign-in**
-* [ ] **thumbs-up (all)**
-* [ ] ticket
-* [ ] **user (all)**
-* [ ] wrench
-* [ ] volume-control-phone
-* [ ] warning
-* [ ] upload
-* [ ] unlock / lock
+* [x] magnet
+* [x] **map**
+* [x] **map-marker**
+* [x] **map-o**
+* [x] map-pin
+* [x] map-signs
+* [x] meh-o
+* [x] **mobile / mobile-phone**
+* [x] **paper-plane (all)**
+* [x] **plug**
+* [x] print (simplify)
+* [x] **user**
+* [x] **quote-left / quote-right**
+* [x] shopping-bag
+* [x] shopping-basket
+* [x] **shower**
+* [x] **sign-out / sign-in**
+* [x] **thumbs-up (all)**
+* [x] ticket
+* [x] **user (all)**
+* [x] wrench
+* [x] volume-control-phone
+* [x] warning
+* [x] upload
+* [x] unlock / lock
 
 ## Simple
 
